@@ -1,0 +1,19 @@
+.container__title-app {
+  background-color: #10887e;
+  padding: 20px;
+  color: white;
+}
+.title__app {
+  font-weight: 400;
+}
+
+.title__shelf {
+  padding: 60px 0 5px 80px;
+  border-bottom: solid 2px lightgray;
+  text-align: left;
+  color: #757575;
+  font-size: 22px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
